@@ -1,5 +1,5 @@
 ## Olá eu sou o Italo Xavier, Estudante de Engenharia da Computação
-
+Estou estudando programação e pretendo utiliza-la para trabalhar com sistemas operacionas e jogos, abaixo as linguagens que eu mais usei.
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
@@ -9,7 +9,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
-<p></p>
+##
 
 <div> 
   <a href="https://www.youtube.com/@itaxao9099" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
