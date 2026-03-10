@@ -9,7 +9,7 @@
 
 ---
 
-[![Itaxao GitHub stats](https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Itaxao GitHub stats](https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&theme-highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
