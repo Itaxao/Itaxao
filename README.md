@@ -9,7 +9,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.v 11 files changed, 223 insertions(+), 30 deletions(-)ercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Itaxao GitHub stat](https://github-readme-stats.v 11 files changed, 223 insertions(+), 30 deletions(-)ercel.app/api?username=itaxao)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
