@@ -9,7 +9,8 @@
 
 ---
 
-[![Itaxao GitHub stats](https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Itaxao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Itaxao/github-readme-stats#gh-dark-mode-only)
+[![Itaxao's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Itaxao/github-readme-stats#gh-light-mode-only)
 
 </div>
 
