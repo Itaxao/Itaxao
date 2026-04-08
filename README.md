@@ -13,7 +13,7 @@
 
 <div align="center">
   # 🔥 My Streak
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itaxao&theme=transparent&hide_border=true&border_radius=&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
+  [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=Itaxao&theme=transparent&hide_border=true&border_radius=&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
 </div>
 
 ---
