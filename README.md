@@ -16,7 +16,7 @@
 
 ---
 
-## ◆ Tecnologias
+## Tecnologias
 
 **Linguagens**
 
@@ -41,7 +41,7 @@
 
 ---
 
-## ◆ Contato
+## Contato
 
 [![YouTube](https://img.shields.io/badge/YOUTUBE-C46215?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@itaxao9099)
 [![Discord](https://img.shields.io/badge/DISCORD-C46215?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/anakin_the)
