@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src = "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&bg_color=00000000)" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&bg_color=00000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itaxao&layout=donut" />
 </div>
 
