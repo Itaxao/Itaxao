@@ -39,8 +39,6 @@
 ![Linux](https://img.shields.io/badge/LINUX-C46215?style=for-the-badge&logo=linux&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LATEX-C46215?style=for-the-badge&logo=latex&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-C46215?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-C46215?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-C46215?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-C46215?style=for-the-badge&logo=php&logoColor=white)
 
 ---
