@@ -18,8 +18,6 @@
 
 ## ◆ Tecnologias
 
----
-
 **Linguagens**
 
 ![Rust](https://img.shields.io/badge/RUST-C46215?style=for-the-badge&logo=rust&logoColor=white)
