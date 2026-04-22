@@ -29,9 +29,9 @@
 ![Python](https://img.shields.io/badge/PYTHON-C46215?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-C46215?style=for-the-badge&logo=javascript&logoColor=white)
 
-**Aprendendo**
+**Estudo Principal**
 
-![Assembly](https://img.shields.io/badge/ASSEMBLY-C46215?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Rust](https://img.shields.io/badge/RUST-C46215?style=for-the-badge&logo=rust&logoColor=white)
 
 **Outros**
 
