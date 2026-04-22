@@ -1,3 +1,21 @@
+<!-- README.md -->
+<div align="center">
+
+# Italo Xavier
+
+**Estudante de Engenharia da Computação**
+
+> *Um jovem programador entrando de cabeça nesse mundo louco — aprendendo, errando e evoluindo todos os dias*
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&bg_color=00000000&hide_border=true&title_color=C46215&icon_color=C46215&text_color=888780" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itaxao&layout=donut&bg_color=00000000&hide_border=true&title_color=C46215&text_color=888780" />
+
+</div>
+
+---
+
 ## ◆ Tecnologias
 
 ---
@@ -33,3 +51,10 @@
 [![Discord](https://img.shields.io/badge/DISCORD-C46215?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/anakin_the)
 [![Gmail](https://img.shields.io/badge/GMAIL-C46215?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xavieritalo853@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-C46215?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/italo-xavier-b5aa311a2)
+---
+
+<div align="center">
+
+*🦀 Construindo conhecimento, uma linha de código por vez.*
+
+</div>
