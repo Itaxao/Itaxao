@@ -6,9 +6,8 @@
 💻 Apaixonado por tecnologia, programação e sistemas
 
 > Um jovem programador entrando de cabeça nesse mundo louco — aprendendo, errando e evoluindo todos os dias 🚀
-
-</div>
 ---
+</div>
 
 <div align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&bg_color=00000000" />
