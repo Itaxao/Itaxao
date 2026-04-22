@@ -13,6 +13,10 @@
 ---
 ---
 
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itaxao&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 ## 🧠 Sobre mim
 
 * 🦀 Estudando **Rust**, **C/C++**, **Java**, **C#** e outras linguagens
@@ -24,7 +28,7 @@
 
 ## 🛠️ Linguagens, Tecnologias e Sistema
 
-<div align="center" style="display: inline-block"><br>
+<div align="center"><br>
   <img align="center" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img align="center" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   <img align="center" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
