@@ -7,8 +7,6 @@
 
 > Um jovem programador entrando de cabeça nesse mundo louco — aprendendo, errando e evoluindo todos os dias 🚀
 
----
-
 </div>
 ---
 
