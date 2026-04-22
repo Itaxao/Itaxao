@@ -24,7 +24,7 @@
 
 ## 🛠️ Linguagens, Tecnologias e Sistema
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline-block"><br>
   <img align="center" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img align="center" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   <img align="center" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
