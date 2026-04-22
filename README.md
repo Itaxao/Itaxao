@@ -1,15 +1,16 @@
+<!-- README.md -->
 <div align="center">
 
 # Italo Xavier
 
 **Estudante de Engenharia da Computação**
 
-> Um jovem programador entrando de cabeça nesse mundo louco — aprendendo, errando e evoluindo todos os dias
+> *Um jovem programador entrando de cabeça nesse mundo louco — aprendendo, errando e evoluindo todos os dias*
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&bg_color=00000000&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itaxao&layout=donut&bg_color=00000000&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&bg_color=00000000&hide_border=true&title_color=C46215&icon_color=C46215&text_color=888780" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itaxao&layout=donut&bg_color=00000000&hide_border=true&title_color=C46215&text_color=888780" />
 
 </div>
 
@@ -22,7 +23,7 @@
 | **Linguagens** | Rust, C/C++, Java, C# e outras |
 | **Interesses** | Sistemas operacionais, baixo nível e engenharia de software |
 | **Explorando** | GUIs, desktop apps e interfaces modernas |
-| **Mindset** | Sempre buscando aprender algo novo e melhorar as bases |
+| **Mindset** | Sempre aprendendo e melhorando as bases |
 
 ---
 
@@ -30,17 +31,19 @@
 
 <div align="center">
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-C46215?style=flat-square&logo=arch-linux&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-C46215?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-C46215?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-C46215?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-C46215?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-C46215?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C46215?style=flat-square&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-C46215?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C46215?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-C46215?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-C46215?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-C46215?style=flat-square&logo=php&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-C46215?style=flat-square&logo=latex&logoColor=white)
 
 </div>
 
@@ -50,10 +53,10 @@
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@itaxao9099)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/anakin_the)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xavieritalo853@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/italo-xavier-b5aa311a2)
+[![YouTube](https://img.shields.io/badge/YouTube-C46215?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@itaxao9099)
+[![Discord](https://img.shields.io/badge/Discord-C46215?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/anakin_the)
+[![Gmail](https://img.shields.io/badge/Gmail-C46215?style=flat-square&logo=gmail&logoColor=white)](mailto:xavieritalo853@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C46215?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/italo-xavier-b5aa311a2)
 
 </div>
 
@@ -67,6 +70,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itaxao/Itaxao/output/github-contribution-grid-snake.svg">
 </picture>
 
-*Construindo conhecimento, uma linha de código por vez.*
+*🦀 Construindo conhecimento, uma linha de código por vez.*
 
 </div>
