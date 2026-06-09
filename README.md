@@ -7,11 +7,6 @@
 
 > *Um jovem programador entrando de cabeça nesse mundo louco — aprendendo, errando e evoluindo todos os dias*
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&bg_color=00000000&hide_border=true&title_color=C46215&icon_color=C46215&text_color=888780" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itaxao&layout=donut&bg_color=00000000&hide_border=true&title_color=C46215&text_color=888780" />
-
 </div>
 
 ---
