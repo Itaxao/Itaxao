@@ -9,7 +9,7 @@
 
 
 ![Itaxao](https://github-readme-stats.vercel.app/api?username=itaxao&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itaxao&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itaxao&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
