@@ -8,8 +8,12 @@
 > *Um jovem programador entrando de cabeça nesse mundo louco — aprendendo, errando e evoluindo todos os dias*
 
 
-![Itaxao](https://github-readme-stats.vercel.app/api?username=itaxao&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itaxao&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=itaxao&show_icons=true&theme=transparent" alt="Itaxao GitHub Stats" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaxao&layout=donut-vertical&theme=transparent" alt="Top Langs" />
+  </a>
+</div>
 </div>
 
 ---
