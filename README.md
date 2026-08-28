@@ -71,7 +71,6 @@ Começou como um scanner TCP e está evoluindo para uma suíte de estudos de red
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C46215?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/italo-xavier-b5aa311a2)
 [![Gmail](https://img.shields.io/badge/Gmail-C46215?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xavieritalo853@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-C46215?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@itaxao9099)
 
 ---
 
