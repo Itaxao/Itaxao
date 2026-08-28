@@ -61,13 +61,9 @@ Começou como um scanner TCP e está evoluindo para uma suíte de estudos de red
 
 ## GitHub
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Itaxao&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itaxao&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
-
-</div>
+- Projetos focados em **Rust, Networking e Cybersecurity**
+- Desenvolvimento prático de ferramentas e estudos de segurança
+- Projeto atual em destaque: [Network_Scanner](https://github.com/Itaxao/Network_Scanner)
 
 ---
 
