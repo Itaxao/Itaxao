@@ -3,8 +3,6 @@
 # Italo Xavier
 
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Itaxao)](https://github.com/stats-organization/github-stats-extended)
-
 ### Computer Engineering Student
 
 Interessado em **Cybersecurity, Web Security, Networking e Rust**.
@@ -47,6 +45,8 @@ para pentesting, redes, sistemas e segurança ofensiva.
 ![C++](https://img.shields.io/badge/C++-C46215?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-C46215?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-C46215?style=flat-square&logo=javascript&logoColor=white)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
