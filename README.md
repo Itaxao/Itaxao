@@ -52,6 +52,8 @@ para pentesting, redes, sistemas e segurança ofensiva.
 
 ## Projeto em destaque
 
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Itaxao&repo=Network_Scanner)](https://github.com/Itaxao/Network_Scanner)
+
 ### [Network_Scanner](https://github.com/Itaxao/Network_Scanner)
 
 Ferramenta de análise e diagnóstico de redes desenvolvida em **Rust + Tauri + React**.
