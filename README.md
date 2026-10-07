@@ -46,13 +46,13 @@ para pentesting, redes, sistemas e segurança ofensiva.
 ![Python](https://img.shields.io/badge/Python-C46215?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-C46215?style=flat-square&logo=javascript&logoColor=white)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/stats-organization/github-stats-extended)
+[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Itaxao&layout=compact&bg_color=00000000&title_color=CE422B&text_color=ffffff&border_color=CE422B)](https://github.com/Itaxao)
 
 ---
 
 ## Projeto em destaque
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Itaxao&repo=Network-Scanner&theme=orange)](https://github.com/Itaxao/Network-Scanner)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Itaxao&repo=Network-Scanner&bg_color=00000000&title_color=CE422B&text_color=ffffff&icon_color=CE422B&border_color=CE422B)](https://github.com/Itaxao/Network-Scanner)
 
 ### [Network_Scanner](https://github.com/Itaxao/Network_Scanner)
 
