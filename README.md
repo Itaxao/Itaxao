@@ -52,7 +52,7 @@ para pentesting, redes, sistemas e segurança ofensiva.
 
 ## Projeto em destaque
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Itaxao&repo=Network_Scanner)](https://github.com/Itaxao/Network_Scanner)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Itaxao&repo=Network-Scanner)](https://github.com/Itaxao/Network_Scanner)
 
 ### [Network_Scanner](https://github.com/Itaxao/Network_Scanner)
 
